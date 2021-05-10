@@ -1,0 +1,38 @@
+body
+{
+  background-color: #ffffff;
+}
+/*.mytext
+{
+  font-size: 30px;
+
+}*/
+.clockpage
+{
+  margin: auto;
+  max-width: 900px;
+  min-width: 500px;
+  background: #ffffff;
+  text-align: center;
+  font-size: 52px;
+  padding: 10px;
+  font-weight: bold;
+  /*border-top: 7px solid #ff0000;
+  border-bottom: 7px solid #ff0000;
+  border-left: 7px solid #ff0000;
+  border-right: 7px solid #ff0000*/
+  margin-top: 250px;
+  border-radius: 15px;
+  box-shadow: 5px 5px 15px rgba(236, 35, 35, 0.5); /* Параметры тени */
+ /* padding: 10px;*/
+}
+#dayOfWeek
+{
+  display: block;
+  font-weight: normal;
+  font-size: 24px;
+}
+img{
+  height: 3%;
+  width: 4%;
+}
